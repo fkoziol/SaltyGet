@@ -21,7 +21,7 @@ They are not essential to enjoy Salty bet's greatness, and I think its creator d
 # How to use
 When password and email have been given in the appropriate variables, you can basically just run all cells, and the script will do the rest.
 This is based on a "while True" loop, so it won't stop as long as the kernel is not shut down. 
-The only thing to do is to do nothing. Don't close the browsers or visit other websites while the script is running, and it will be ok (if you do, it won't record matches anymore, but that's all). You can open new tabs on these browsers and do wathever you want, that won't cause any problem, though I would advise to just open a new browser to avoid mistakes).
+The only thing to do is to do nothing. Don't close the browsers or visit other websites while the script is running, and it will be ok (if you do, it won't record matches anymore, but that's all). You can open new tabs on these browsers and do wathever you want, that won't cause any problem, though I would advise to just open a new browser instead to avoid any mistake.
 
 # Future updates
 I plan to make a few updates in the future, such as "dumb" automatic betting (betting a fixed value for the highest or lowest winrate) to mine automatically while scrapping (this won't make anyone rich though) and try to get the informations without opening browsers.
