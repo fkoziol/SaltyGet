@@ -7,7 +7,7 @@ The basic idea comes from here : https://codereview.stackexchange.com/questions/
 Though, you can see in the script that it evolved a lot.
 
 Every existing scripts I found so far were only recording which fighter won or lost. Though, I have two problems with this approach:
-- Knowing who won and who lost doesn't give informations on why
+- Knowing who won and who lost doesn't give informations on why, which is almost more important
 - Going for the one with the highest chances of winning isn't the optimal way of betting
 
 So I wrote this script to get all the informations from the characters, but also the odds for each match.
