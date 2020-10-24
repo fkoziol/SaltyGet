@@ -25,7 +25,5 @@ The only thing to do is to do nothing. Don't close the browsers or visit other w
 
 # Future updates
 I plan to make a few updates in the future:
-- Fix a bug that makes the script do empty infinite loops when starting it at the wrong moment (probably when starting just before the end of a match)
 - "dumb" automatic betting (betting a fixed value for the highest or lowest winrate) to mine automatically while scrapping (this won't make anyone rich though)
-- Automatic refresh when SaltyBet crashes (which happens at least once per day)
 - Get the informations without opening browsers.
