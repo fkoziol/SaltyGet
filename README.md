@@ -6,7 +6,7 @@ It can be a precious tool for anyone willing to make an optimal betting algorith
 The basic idea comes from here : https://codereview.stackexchange.com/questions/211017/a-bot-for-saltybet-that-watches-and-records-matches?rq=1
 Though, you can see in the script that it evolved a lot.
 
-Every existing scripts I found so far were only recording which fighter won or lost. Though, I have two problems with this approach:
+Every existing scripts I found so far was only recording which fighter won or lost. Though, I have two problems with this approach:
 - Knowing who won and who lost doesn't give informations on why, which is almost more important
 - Going for the one with the highest chances of winning isn't the optimal way of betting
 
